@@ -36,9 +36,9 @@ OpenCV Handson using Python workshop sample are present here
 ## *Day1*
 
 ##### 1) Day1_Opencv_open.py
-         Python program to read image open cv and show it.
+         Python program to read image using open cv and show it.
          
          Functions used:
-         a) imread
+         a) imread 
        
   
